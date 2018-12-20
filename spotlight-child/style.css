@@ -1,0 +1,13 @@
+/*
+ * Theme Name:  Spotlight Child
+ * Theme URI:   https://codesupply.co/themes/spotlight/
+ * Description: Spotlight Child Theme
+ * Author:      Code Supply Co.
+ * Author URI:  https://codesupply.co/
+ * Template:    spotlight
+ * Version:     1.0.0.2
+ */
+
+/* Copy any classes from parent theme here. They will override the parent's version. */
+header.site-header{padding-bottom:25px;background-color:#000000;}
+header.site-header .navbar .cs-bg-navbar-dark{border-bottom: 1px solid #313140;}
